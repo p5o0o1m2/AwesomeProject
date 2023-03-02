@@ -75,4 +75,4 @@ function LeafScreen() {
             <Text style={{ fontSize: 30, paddingTop: 20 }}>Ivysour</Text>
         </View>
     );
-}
+} 

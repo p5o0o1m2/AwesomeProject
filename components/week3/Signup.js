@@ -11,4 +11,4 @@ export default function Signup() {
             <Button title='Sign up' color={"tomato"}/>
         </View>
     );
-}
+} 

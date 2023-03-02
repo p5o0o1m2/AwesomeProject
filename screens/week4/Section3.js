@@ -22,4 +22,4 @@ export default function Section3() {
 
         </View>
     );
-}
+} 

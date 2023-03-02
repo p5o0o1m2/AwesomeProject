@@ -26,4 +26,4 @@ export default function Ex09() {
 </View>
 
   );
-}
+} 

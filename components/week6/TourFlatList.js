@@ -101,6 +101,6 @@ export default function TourFlatList(props) {
 
         </View>
     );
-}
+} 
 
 

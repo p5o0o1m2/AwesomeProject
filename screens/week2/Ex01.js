@@ -10,7 +10,7 @@ export default function Ex01() {
       <View style={{ backgroundColor : '#50E3C2' , height : 100  }}></View>      
     </View>
   );
-}
+} 
 
   
   

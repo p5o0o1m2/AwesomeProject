@@ -7,4 +7,4 @@ export default function Ex10() {
       <View style={{ backgroundColor : '#4A90E2',flex : 3}}></View> 
     </View>
   );
-}
+} 

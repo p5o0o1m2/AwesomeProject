@@ -8,7 +8,7 @@ export default function Ex02() {
       <View style={{ backgroundColor : '#50E3C2' , width : 100  }}></View>      
     </View>
   );
-}
-
+} 
+ 
   
   

@@ -12,4 +12,4 @@ export default function RootStack() {
       <Stack.Screen name="PokemonTab" component={PokemonTab} options={{ title : "Pokemon World" }}  />
     </Stack.Navigator>
   );
-}
+} 

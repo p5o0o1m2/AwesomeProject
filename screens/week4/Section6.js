@@ -15,4 +15,4 @@ export default function Section4() {
             </View>
         </View>
     );
-}
+} 

@@ -24,4 +24,4 @@ export default function Travel() {
             </View>
         </ScrollView>
     );
-}
+} 

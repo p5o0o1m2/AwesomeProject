@@ -24,4 +24,4 @@ export default function Resort() {
             </View>
         </ScrollView>
     );
-}
+} 

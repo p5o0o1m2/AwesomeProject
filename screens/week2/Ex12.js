@@ -9,4 +9,4 @@ export default function Ex12() {
       <View style={{ backgroundColor : '#9013FE',flex : 1 }}></View>   
     </View>
   );
-}
+} 

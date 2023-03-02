@@ -12,4 +12,4 @@ export default function Section5() {
             <MyIcon title='paw' name='paw' size={30} color='skyblue' />
         </View>
     );
-}
+} 

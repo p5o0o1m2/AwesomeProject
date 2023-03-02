@@ -10,4 +10,4 @@ export default function MyIcon(props) {
         </View>
 
     );
-}
+} 
